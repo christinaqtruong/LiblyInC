@@ -62,7 +62,7 @@ You can create a basic .net app using the instructions [here]([https://code.visu
   
 
 ```
-dotnet new console
+dotnet new mvc
 ```
 
   
